@@ -2,7 +2,7 @@
 ![logo](https://github.com/harshvardhangit/harshvardhangit/blob/main/banner1.jpeg)
 <h1 align="center">Hi 👋, I'm Harshvardhan Chauhan</h1>
 <h3 align="center">A passionate Java developer Trainee from India</h3>
-<img align="right" alt="coding" width="400" src="(https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshvardhangit&label=Profile%20views&color=0e75b6&style=flat" alt="harshvardhangit" /> </p>
 
